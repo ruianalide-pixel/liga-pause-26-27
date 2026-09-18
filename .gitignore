@@ -15,6 +15,9 @@ LP_Betclic2026_27_calendar.pdf
 # === Ficheiros de dev/experimentais (não precisos no deploy) ===
 _tmp_*.py
 
+# === Ferramentas de dev/ML/scraping — locais, NÃO vão para o deploy ===
+tools/
+
 # === Python ===
 __pycache__/
 *.pyc
