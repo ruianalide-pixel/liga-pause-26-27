@@ -1,0 +1,9 @@
+{
+  "min_sat": 60.0,
+  "w_cur_cap": 0.6,
+  "w_cur_speed": 8.0,
+  "form_weight": 0.25,
+  "form_window": 3,
+  "fdr_scale": 1.5,
+  "home_adj": 0.05
+}

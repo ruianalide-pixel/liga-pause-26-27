@@ -1,0 +1,39 @@
+{
+  "rho_full": 0.4479,
+  "params": {
+    "min_sat": 60.0,
+    "w_cur_cap": 0.6,
+    "w_cur_speed": 8.0,
+    "form_weight": 0.25,
+    "form_window": 3,
+    "fdr_scale": 1.5,
+    "home_adj": 0.05
+  },
+  "importance": {
+    "Dificuldade (FDR)": {
+      "rho_full": 0.4479,
+      "rho_off": 0.4158,
+      "drop": 0.032
+    },
+    "Forma recente": {
+      "rho_full": 0.4479,
+      "rho_off": 0.4463,
+      "drop": 0.0015
+    },
+    "Casa/Fora": {
+      "rho_full": 0.4479,
+      "rho_off": 0.4467,
+      "drop": 0.0012
+    },
+    "Epoca passada": {
+      "rho_full": 0.4479,
+      "rho_off": 0.4119,
+      "drop": 0.0359
+    },
+    "Minutos + Taxa base (nucleo)": {
+      "rho_full": 0.4479,
+      "rho_off": 0.3424,
+      "drop": 0.1055
+    }
+  }
+}

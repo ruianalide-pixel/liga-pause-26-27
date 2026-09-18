@@ -1,0 +1,25 @@
+# === Segredos — NUNCA commitar ===
+.env
+.streamlit/secrets.toml
+
+# === Cache local (regenerada da API) ===
+.cache/
+
+# === Dados/artefactos locais pesados ou privados ===
+*.db
+*.pkl
+*.xlsx
+temp_multas.xlsx
+LP_Betclic2026_27_calendar.pdf
+
+# === Ficheiros de dev/experimentais (não precisos no deploy) ===
+_tmp_*.py
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.idea/
+.vscode/

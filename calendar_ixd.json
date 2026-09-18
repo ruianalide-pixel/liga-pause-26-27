@@ -1,0 +1,2144 @@
+[
+ {
+  "gw": 1,
+  "home": "CDSC",
+  "away": "CDN",
+  "ixd_c": 1.538,
+  "ixd_f": 3.268
+ },
+ {
+  "gw": 1,
+  "home": "CFEA",
+  "away": "SCP",
+  "ixd_c": 4.56,
+  "ixd_f": 2.349
+ },
+ {
+  "gw": 1,
+  "home": "CSM",
+  "away": "CPAC",
+  "ixd_c": 1.512,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 1,
+  "home": "FCP",
+  "away": "ALV",
+  "ixd_c": 2.361,
+  "ixd_f": 4.485
+ },
+ {
+  "gw": 1,
+  "home": "GDEP",
+  "away": "FCF",
+  "ixd_c": 3.292,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 1,
+  "home": "GVFC",
+  "away": "RAFC",
+  "ixd_c": 1.544,
+  "ixd_f": 3.228
+ },
+ {
+  "gw": 1,
+  "home": "MFC",
+  "away": "SCB",
+  "ixd_c": 3.436,
+  "ixd_f": 1.564
+ },
+ {
+  "gw": 1,
+  "home": "SLB",
+  "away": "AVFC",
+  "ixd_c": 1.568,
+  "ixd_f": 4.605
+ },
+ {
+  "gw": 1,
+  "home": "VSC",
+  "away": "FCA",
+  "ixd_c": 2.406,
+  "ixd_f": 3.2
+ },
+ {
+  "gw": 2,
+  "home": "ALV",
+  "away": "CFEA",
+  "ixd_c": 2.349,
+  "ixd_f": 2.361
+ },
+ {
+  "gw": 2,
+  "home": "AVFC",
+  "away": "CDSC",
+  "ixd_c": 2.451,
+  "ixd_f": 2.352
+ },
+ {
+  "gw": 2,
+  "home": "CDN",
+  "away": "GDEP",
+  "ixd_c": 2.334,
+  "ixd_f": 1.538
+ },
+ {
+  "gw": 2,
+  "home": "CPAC",
+  "away": "SLB",
+  "ixd_c": 4.605,
+  "ixd_f": 1.512
+ },
+ {
+  "gw": 2,
+  "home": "FCA",
+  "away": "MFC",
+  "ixd_c": 1.564,
+  "ixd_f": 3.208
+ },
+ {
+  "gw": 2,
+  "home": "FCF",
+  "away": "CSM",
+  "ixd_c": 2.334,
+  "ixd_f": 3.292
+ },
+ {
+  "gw": 2,
+  "home": "RAFC",
+  "away": "FCP",
+  "ixd_c": 4.485,
+  "ixd_f": 2.316
+ },
+ {
+  "gw": 2,
+  "home": "SCB",
+  "away": "GVFC",
+  "ixd_c": 3.228,
+  "ixd_f": 4.295
+ },
+ {
+  "gw": 2,
+  "home": "SCP",
+  "away": "VSC",
+  "ixd_c": 3.2,
+  "ixd_f": 4.56
+ },
+ {
+  "gw": 3,
+  "home": "CDSC",
+  "away": "FCF",
+  "ixd_c": 3.292,
+  "ixd_f": 3.268
+ },
+ {
+  "gw": 3,
+  "home": "CFEA",
+  "away": "SCB",
+  "ixd_c": 3.436,
+  "ixd_f": 2.349
+ },
+ {
+  "gw": 3,
+  "home": "CSM",
+  "away": "AVFC",
+  "ixd_c": 1.568,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 3,
+  "home": "FCP",
+  "away": "FCA",
+  "ixd_c": 2.406,
+  "ixd_f": 4.485
+ },
+ {
+  "gw": 3,
+  "home": "GDEP",
+  "away": "RAFC",
+  "ixd_c": 1.544,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 3,
+  "home": "GVFC",
+  "away": "CPAC",
+  "ixd_c": 1.512,
+  "ixd_f": 3.228
+ },
+ {
+  "gw": 3,
+  "home": "MFC",
+  "away": "SLB",
+  "ixd_c": 4.605,
+  "ixd_f": 1.564
+ },
+ {
+  "gw": 3,
+  "home": "SCP",
+  "away": "ALV",
+  "ixd_c": 2.361,
+  "ixd_f": 4.56
+ },
+ {
+  "gw": 3,
+  "home": "VSC",
+  "away": "CDN",
+  "ixd_c": 1.538,
+  "ixd_f": 3.2
+ },
+ {
+  "gw": 4,
+  "home": "ALV",
+  "away": "CDSC",
+  "ixd_c": 2.451,
+  "ixd_f": 2.361
+ },
+ {
+  "gw": 4,
+  "home": "AVFC",
+  "away": "FCP",
+  "ixd_c": 4.485,
+  "ixd_f": 2.352
+ },
+ {
+  "gw": 4,
+  "home": "CDN",
+  "away": "CFEA",
+  "ixd_c": 2.349,
+  "ixd_f": 1.538
+ },
+ {
+  "gw": 4,
+  "home": "CPAC",
+  "away": "MFC",
+  "ixd_c": 1.564,
+  "ixd_f": 1.512
+ },
+ {
+  "gw": 4,
+  "home": "FCA",
+  "away": "CSM",
+  "ixd_c": 2.334,
+  "ixd_f": 3.208
+ },
+ {
+  "gw": 4,
+  "home": "FCF",
+  "away": "GVFC",
+  "ixd_c": 3.228,
+  "ixd_f": 3.292
+ },
+ {
+  "gw": 4,
+  "home": "RAFC",
+  "away": "SCP",
+  "ixd_c": 4.56,
+  "ixd_f": 2.316
+ },
+ {
+  "gw": 4,
+  "home": "SCB",
+  "away": "VSC",
+  "ixd_c": 3.2,
+  "ixd_f": 4.295
+ },
+ {
+  "gw": 4,
+  "home": "SLB",
+  "away": "GDEP",
+  "ixd_c": 2.334,
+  "ixd_f": 4.605
+ },
+ {
+  "gw": 5,
+  "home": "ALV",
+  "away": "SCB",
+  "ixd_c": 3.436,
+  "ixd_f": 2.361
+ },
+ {
+  "gw": 5,
+  "home": "CDSC",
+  "away": "RAFC",
+  "ixd_c": 1.544,
+  "ixd_f": 3.268
+ },
+ {
+  "gw": 5,
+  "home": "CFEA",
+  "away": "FCF",
+  "ixd_c": 3.292,
+  "ixd_f": 2.349
+ },
+ {
+  "gw": 5,
+  "home": "CSM",
+  "away": "SLB",
+  "ixd_c": 4.605,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 5,
+  "home": "FCP",
+  "away": "MFC",
+  "ixd_c": 1.564,
+  "ixd_f": 4.485
+ },
+ {
+  "gw": 5,
+  "home": "GDEP",
+  "away": "FCA",
+  "ixd_c": 2.406,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 5,
+  "home": "GVFC",
+  "away": "AVFC",
+  "ixd_c": 1.568,
+  "ixd_f": 3.228
+ },
+ {
+  "gw": 5,
+  "home": "SCP",
+  "away": "CDN",
+  "ixd_c": 1.538,
+  "ixd_f": 4.56
+ },
+ {
+  "gw": 5,
+  "home": "VSC",
+  "away": "CPAC",
+  "ixd_c": 1.512,
+  "ixd_f": 3.2
+ },
+ {
+  "gw": 6,
+  "home": "AVFC",
+  "away": "VSC",
+  "ixd_c": 3.2,
+  "ixd_f": 2.352
+ },
+ {
+  "gw": 6,
+  "home": "CDN",
+  "away": "ALV",
+  "ixd_c": 2.361,
+  "ixd_f": 1.538
+ },
+ {
+  "gw": 6,
+  "home": "CPAC",
+  "away": "FCP",
+  "ixd_c": 4.485,
+  "ixd_f": 1.512
+ },
+ {
+  "gw": 6,
+  "home": "FCA",
+  "away": "CDSC",
+  "ixd_c": 2.451,
+  "ixd_f": 3.208
+ },
+ {
+  "gw": 6,
+  "home": "FCF",
+  "away": "SCP",
+  "ixd_c": 4.56,
+  "ixd_f": 3.292
+ },
+ {
+  "gw": 6,
+  "home": "MFC",
+  "away": "CSM",
+  "ixd_c": 2.334,
+  "ixd_f": 1.564
+ },
+ {
+  "gw": 6,
+  "home": "RAFC",
+  "away": "CFEA",
+  "ixd_c": 2.349,
+  "ixd_f": 2.316
+ },
+ {
+  "gw": 6,
+  "home": "SCB",
+  "away": "GDEP",
+  "ixd_c": 2.334,
+  "ixd_f": 4.295
+ },
+ {
+  "gw": 6,
+  "home": "SLB",
+  "away": "GVFC",
+  "ixd_c": 3.228,
+  "ixd_f": 4.605
+ },
+ {
+  "gw": 7,
+  "home": "ALV",
+  "away": "RAFC",
+  "ixd_c": 1.544,
+  "ixd_f": 2.361
+ },
+ {
+  "gw": 7,
+  "home": "CDN",
+  "away": "FCF",
+  "ixd_c": 3.292,
+  "ixd_f": 1.538
+ },
+ {
+  "gw": 7,
+  "home": "CDSC",
+  "away": "SCB",
+  "ixd_c": 3.436,
+  "ixd_f": 3.268
+ },
+ {
+  "gw": 7,
+  "home": "CFEA",
+  "away": "AVFC",
+  "ixd_c": 1.568,
+  "ixd_f": 2.349
+ },
+ {
+  "gw": 7,
+  "home": "FCP",
+  "away": "SLB",
+  "ixd_c": 4.605,
+  "ixd_f": 4.485
+ },
+ {
+  "gw": 7,
+  "home": "GDEP",
+  "away": "CPAC",
+  "ixd_c": 1.512,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 7,
+  "home": "GVFC",
+  "away": "CSM",
+  "ixd_c": 2.334,
+  "ixd_f": 3.228
+ },
+ {
+  "gw": 7,
+  "home": "SCP",
+  "away": "FCA",
+  "ixd_c": 2.406,
+  "ixd_f": 4.56
+ },
+ {
+  "gw": 7,
+  "home": "VSC",
+  "away": "MFC",
+  "ixd_c": 1.564,
+  "ixd_f": 3.2
+ },
+ {
+  "gw": 8,
+  "home": "AVFC",
+  "away": "GDEP",
+  "ixd_c": 2.334,
+  "ixd_f": 2.352
+ },
+ {
+  "gw": 8,
+  "home": "CPAC",
+  "away": "CDSC",
+  "ixd_c": 2.451,
+  "ixd_f": 1.512
+ },
+ {
+  "gw": 8,
+  "home": "CSM",
+  "away": "FCP",
+  "ixd_c": 4.485,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 8,
+  "home": "FCA",
+  "away": "CFEA",
+  "ixd_c": 2.349,
+  "ixd_f": 3.208
+ },
+ {
+  "gw": 8,
+  "home": "FCF",
+  "away": "ALV",
+  "ixd_c": 2.361,
+  "ixd_f": 3.292
+ },
+ {
+  "gw": 8,
+  "home": "MFC",
+  "away": "GVFC",
+  "ixd_c": 3.228,
+  "ixd_f": 1.564
+ },
+ {
+  "gw": 8,
+  "home": "RAFC",
+  "away": "CDN",
+  "ixd_c": 1.538,
+  "ixd_f": 2.316
+ },
+ {
+  "gw": 8,
+  "home": "SCB",
+  "away": "SCP",
+  "ixd_c": 4.56,
+  "ixd_f": 4.295
+ },
+ {
+  "gw": 8,
+  "home": "SLB",
+  "away": "VSC",
+  "ixd_c": 3.2,
+  "ixd_f": 4.605
+ },
+ {
+  "gw": 9,
+  "home": "ALV",
+  "away": "FCA",
+  "ixd_c": 2.406,
+  "ixd_f": 2.361
+ },
+ {
+  "gw": 9,
+  "home": "CDN",
+  "away": "SCB",
+  "ixd_c": 3.436,
+  "ixd_f": 1.538
+ },
+ {
+  "gw": 9,
+  "home": "CDSC",
+  "away": "SLB",
+  "ixd_c": 4.605,
+  "ixd_f": 3.268
+ },
+ {
+  "gw": 9,
+  "home": "CFEA",
+  "away": "CPAC",
+  "ixd_c": 1.512,
+  "ixd_f": 2.349
+ },
+ {
+  "gw": 9,
+  "home": "GDEP",
+  "away": "MFC",
+  "ixd_c": 1.564,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 9,
+  "home": "GVFC",
+  "away": "FCP",
+  "ixd_c": 4.485,
+  "ixd_f": 3.228
+ },
+ {
+  "gw": 9,
+  "home": "RAFC",
+  "away": "FCF",
+  "ixd_c": 3.292,
+  "ixd_f": 2.316
+ },
+ {
+  "gw": 9,
+  "home": "SCP",
+  "away": "AVFC",
+  "ixd_c": 1.568,
+  "ixd_f": 4.56
+ },
+ {
+  "gw": 9,
+  "home": "VSC",
+  "away": "CSM",
+  "ixd_c": 2.334,
+  "ixd_f": 3.2
+ },
+ {
+  "gw": 10,
+  "home": "AVFC",
+  "away": "RAFC",
+  "ixd_c": 1.544,
+  "ixd_f": 2.352
+ },
+ {
+  "gw": 10,
+  "home": "CPAC",
+  "away": "SCP",
+  "ixd_c": 4.56,
+  "ixd_f": 1.512
+ },
+ {
+  "gw": 10,
+  "home": "CSM",
+  "away": "CDSC",
+  "ixd_c": 2.451,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 10,
+  "home": "FCA",
+  "away": "CDN",
+  "ixd_c": 1.538,
+  "ixd_f": 3.208
+ },
+ {
+  "gw": 10,
+  "home": "FCP",
+  "away": "GDEP",
+  "ixd_c": 2.334,
+  "ixd_f": 4.485
+ },
+ {
+  "gw": 10,
+  "home": "GVFC",
+  "away": "VSC",
+  "ixd_c": 3.2,
+  "ixd_f": 3.228
+ },
+ {
+  "gw": 10,
+  "home": "MFC",
+  "away": "CFEA",
+  "ixd_c": 2.349,
+  "ixd_f": 1.564
+ },
+ {
+  "gw": 10,
+  "home": "SCB",
+  "away": "FCF",
+  "ixd_c": 3.292,
+  "ixd_f": 4.295
+ },
+ {
+  "gw": 10,
+  "home": "SLB",
+  "away": "ALV",
+  "ixd_c": 2.361,
+  "ixd_f": 4.605
+ },
+ {
+  "gw": 11,
+  "home": "ALV",
+  "away": "CPAC",
+  "ixd_c": 1.512,
+  "ixd_f": 2.361
+ },
+ {
+  "gw": 11,
+  "home": "CDN",
+  "away": "AVFC",
+  "ixd_c": 1.568,
+  "ixd_f": 1.538
+ },
+ {
+  "gw": 11,
+  "home": "CDSC",
+  "away": "GVFC",
+  "ixd_c": 3.228,
+  "ixd_f": 3.268
+ },
+ {
+  "gw": 11,
+  "home": "CFEA",
+  "away": "SLB",
+  "ixd_c": 4.605,
+  "ixd_f": 2.349
+ },
+ {
+  "gw": 11,
+  "home": "FCF",
+  "away": "FCA",
+  "ixd_c": 2.406,
+  "ixd_f": 3.292
+ },
+ {
+  "gw": 11,
+  "home": "GDEP",
+  "away": "CSM",
+  "ixd_c": 2.334,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 11,
+  "home": "RAFC",
+  "away": "SCB",
+  "ixd_c": 3.436,
+  "ixd_f": 2.316
+ },
+ {
+  "gw": 11,
+  "home": "SCP",
+  "away": "MFC",
+  "ixd_c": 1.564,
+  "ixd_f": 4.56
+ },
+ {
+  "gw": 11,
+  "home": "VSC",
+  "away": "FCP",
+  "ixd_c": 4.485,
+  "ixd_f": 3.2
+ },
+ {
+  "gw": 12,
+  "home": "AVFC",
+  "away": "ALV",
+  "ixd_c": 2.361,
+  "ixd_f": 2.352
+ },
+ {
+  "gw": 12,
+  "home": "CPAC",
+  "away": "SCB",
+  "ixd_c": 3.436,
+  "ixd_f": 1.512
+ },
+ {
+  "gw": 12,
+  "home": "CSM",
+  "away": "CDN",
+  "ixd_c": 1.538,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 12,
+  "home": "FCA",
+  "away": "RAFC",
+  "ixd_c": 1.544,
+  "ixd_f": 3.208
+ },
+ {
+  "gw": 12,
+  "home": "FCP",
+  "away": "SCP",
+  "ixd_c": 4.56,
+  "ixd_f": 4.485
+ },
+ {
+  "gw": 12,
+  "home": "GVFC",
+  "away": "GDEP",
+  "ixd_c": 2.334,
+  "ixd_f": 3.228
+ },
+ {
+  "gw": 12,
+  "home": "MFC",
+  "away": "CDSC",
+  "ixd_c": 2.451,
+  "ixd_f": 1.564
+ },
+ {
+  "gw": 12,
+  "home": "SLB",
+  "away": "FCF",
+  "ixd_c": 3.292,
+  "ixd_f": 4.605
+ },
+ {
+  "gw": 12,
+  "home": "VSC",
+  "away": "CFEA",
+  "ixd_c": 2.349,
+  "ixd_f": 3.2
+ },
+ {
+  "gw": 13,
+  "home": "ALV",
+  "away": "MFC",
+  "ixd_c": 1.564,
+  "ixd_f": 2.361
+ },
+ {
+  "gw": 13,
+  "home": "CDN",
+  "away": "SLB",
+  "ixd_c": 4.605,
+  "ixd_f": 1.538
+ },
+ {
+  "gw": 13,
+  "home": "CDSC",
+  "away": "FCP",
+  "ixd_c": 4.485,
+  "ixd_f": 3.268
+ },
+ {
+  "gw": 13,
+  "home": "CFEA",
+  "away": "GVFC",
+  "ixd_c": 3.228,
+  "ixd_f": 2.349
+ },
+ {
+  "gw": 13,
+  "home": "FCF",
+  "away": "AVFC",
+  "ixd_c": 1.568,
+  "ixd_f": 3.292
+ },
+ {
+  "gw": 13,
+  "home": "GDEP",
+  "away": "VSC",
+  "ixd_c": 3.2,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 13,
+  "home": "RAFC",
+  "away": "CPAC",
+  "ixd_c": 1.512,
+  "ixd_f": 2.316
+ },
+ {
+  "gw": 13,
+  "home": "SCB",
+  "away": "FCA",
+  "ixd_c": 2.406,
+  "ixd_f": 4.295
+ },
+ {
+  "gw": 13,
+  "home": "SCP",
+  "away": "CSM",
+  "ixd_c": 2.334,
+  "ixd_f": 4.56
+ },
+ {
+  "gw": 14,
+  "home": "AVFC",
+  "away": "FCA",
+  "ixd_c": 2.406,
+  "ixd_f": 2.352
+ },
+ {
+  "gw": 14,
+  "home": "CPAC",
+  "away": "CDN",
+  "ixd_c": 1.538,
+  "ixd_f": 1.512
+ },
+ {
+  "gw": 14,
+  "home": "CSM",
+  "away": "RAFC",
+  "ixd_c": 1.544,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 14,
+  "home": "FCP",
+  "away": "CFEA",
+  "ixd_c": 2.349,
+  "ixd_f": 4.485
+ },
+ {
+  "gw": 14,
+  "home": "GDEP",
+  "away": "CDSC",
+  "ixd_c": 2.451,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 14,
+  "home": "GVFC",
+  "away": "SCP",
+  "ixd_c": 4.56,
+  "ixd_f": 3.228
+ },
+ {
+  "gw": 14,
+  "home": "MFC",
+  "away": "FCF",
+  "ixd_c": 3.292,
+  "ixd_f": 1.564
+ },
+ {
+  "gw": 14,
+  "home": "SLB",
+  "away": "SCB",
+  "ixd_c": 3.436,
+  "ixd_f": 4.605
+ },
+ {
+  "gw": 14,
+  "home": "VSC",
+  "away": "ALV",
+  "ixd_c": 2.361,
+  "ixd_f": 3.2
+ },
+ {
+  "gw": 15,
+  "home": "ALV",
+  "away": "GVFC",
+  "ixd_c": 3.228,
+  "ixd_f": 2.361
+ },
+ {
+  "gw": 15,
+  "home": "CDN",
+  "away": "MFC",
+  "ixd_c": 1.564,
+  "ixd_f": 1.538
+ },
+ {
+  "gw": 15,
+  "home": "CDSC",
+  "away": "VSC",
+  "ixd_c": 3.2,
+  "ixd_f": 3.268
+ },
+ {
+  "gw": 15,
+  "home": "CFEA",
+  "away": "CSM",
+  "ixd_c": 2.334,
+  "ixd_f": 2.349
+ },
+ {
+  "gw": 15,
+  "home": "FCA",
+  "away": "CPAC",
+  "ixd_c": 1.512,
+  "ixd_f": 3.208
+ },
+ {
+  "gw": 15,
+  "home": "FCF",
+  "away": "FCP",
+  "ixd_c": 4.485,
+  "ixd_f": 3.292
+ },
+ {
+  "gw": 15,
+  "home": "RAFC",
+  "away": "SLB",
+  "ixd_c": 4.605,
+  "ixd_f": 2.316
+ },
+ {
+  "gw": 15,
+  "home": "SCB",
+  "away": "AVFC",
+  "ixd_c": 1.568,
+  "ixd_f": 4.295
+ },
+ {
+  "gw": 15,
+  "home": "SCP",
+  "away": "GDEP",
+  "ixd_c": 2.334,
+  "ixd_f": 4.56
+ },
+ {
+  "gw": 16,
+  "home": "CDSC",
+  "away": "CFEA",
+  "ixd_c": 2.349,
+  "ixd_f": 3.268
+ },
+ {
+  "gw": 16,
+  "home": "CPAC",
+  "away": "FCF",
+  "ixd_c": 3.292,
+  "ixd_f": 1.512
+ },
+ {
+  "gw": 16,
+  "home": "CSM",
+  "away": "SCB",
+  "ixd_c": 3.436,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 16,
+  "home": "FCP",
+  "away": "CDN",
+  "ixd_c": 1.538,
+  "ixd_f": 4.485
+ },
+ {
+  "gw": 16,
+  "home": "GDEP",
+  "away": "ALV",
+  "ixd_c": 2.361,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 16,
+  "home": "GVFC",
+  "away": "FCA",
+  "ixd_c": 2.406,
+  "ixd_f": 3.228
+ },
+ {
+  "gw": 16,
+  "home": "MFC",
+  "away": "AVFC",
+  "ixd_c": 1.568,
+  "ixd_f": 1.564
+ },
+ {
+  "gw": 16,
+  "home": "SLB",
+  "away": "SCP",
+  "ixd_c": 4.56,
+  "ixd_f": 4.605
+ },
+ {
+  "gw": 16,
+  "home": "VSC",
+  "away": "RAFC",
+  "ixd_c": 1.544,
+  "ixd_f": 3.2
+ },
+ {
+  "gw": 17,
+  "home": "ALV",
+  "away": "CSM",
+  "ixd_c": 2.334,
+  "ixd_f": 2.361
+ },
+ {
+  "gw": 17,
+  "home": "AVFC",
+  "away": "CPAC",
+  "ixd_c": 1.512,
+  "ixd_f": 2.352
+ },
+ {
+  "gw": 17,
+  "home": "CDN",
+  "away": "GVFC",
+  "ixd_c": 3.228,
+  "ixd_f": 1.538
+ },
+ {
+  "gw": 17,
+  "home": "CFEA",
+  "away": "GDEP",
+  "ixd_c": 2.334,
+  "ixd_f": 2.349
+ },
+ {
+  "gw": 17,
+  "home": "FCA",
+  "away": "SLB",
+  "ixd_c": 4.605,
+  "ixd_f": 3.208
+ },
+ {
+  "gw": 17,
+  "home": "FCF",
+  "away": "VSC",
+  "ixd_c": 3.2,
+  "ixd_f": 3.292
+ },
+ {
+  "gw": 17,
+  "home": "RAFC",
+  "away": "MFC",
+  "ixd_c": 1.564,
+  "ixd_f": 2.316
+ },
+ {
+  "gw": 17,
+  "home": "SCB",
+  "away": "FCP",
+  "ixd_c": 4.485,
+  "ixd_f": 4.295
+ },
+ {
+  "gw": 17,
+  "home": "SCP",
+  "away": "CDSC",
+  "ixd_c": 2.451,
+  "ixd_f": 4.56
+ },
+ {
+  "gw": 18,
+  "home": "ALV",
+  "away": "FCP",
+  "ixd_c": 4.485,
+  "ixd_f": 2.361
+ },
+ {
+  "gw": 18,
+  "home": "AVFC",
+  "away": "SLB",
+  "ixd_c": 4.605,
+  "ixd_f": 2.352
+ },
+ {
+  "gw": 18,
+  "home": "CDN",
+  "away": "CDSC",
+  "ixd_c": 2.451,
+  "ixd_f": 1.538
+ },
+ {
+  "gw": 18,
+  "home": "CPAC",
+  "away": "CSM",
+  "ixd_c": 2.334,
+  "ixd_f": 1.512
+ },
+ {
+  "gw": 18,
+  "home": "FCA",
+  "away": "VSC",
+  "ixd_c": 3.2,
+  "ixd_f": 3.208
+ },
+ {
+  "gw": 18,
+  "home": "FCF",
+  "away": "GDEP",
+  "ixd_c": 2.334,
+  "ixd_f": 3.292
+ },
+ {
+  "gw": 18,
+  "home": "RAFC",
+  "away": "GVFC",
+  "ixd_c": 3.228,
+  "ixd_f": 2.316
+ },
+ {
+  "gw": 18,
+  "home": "SCB",
+  "away": "MFC",
+  "ixd_c": 1.564,
+  "ixd_f": 4.295
+ },
+ {
+  "gw": 18,
+  "home": "SCP",
+  "away": "CFEA",
+  "ixd_c": 2.349,
+  "ixd_f": 4.56
+ },
+ {
+  "gw": 19,
+  "home": "CDSC",
+  "away": "AVFC",
+  "ixd_c": 1.568,
+  "ixd_f": 3.268
+ },
+ {
+  "gw": 19,
+  "home": "CFEA",
+  "away": "ALV",
+  "ixd_c": 2.361,
+  "ixd_f": 2.349
+ },
+ {
+  "gw": 19,
+  "home": "CSM",
+  "away": "FCF",
+  "ixd_c": 3.292,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 19,
+  "home": "FCP",
+  "away": "RAFC",
+  "ixd_c": 1.544,
+  "ixd_f": 4.485
+ },
+ {
+  "gw": 19,
+  "home": "GDEP",
+  "away": "CDN",
+  "ixd_c": 1.538,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 19,
+  "home": "GVFC",
+  "away": "SCB",
+  "ixd_c": 3.436,
+  "ixd_f": 3.228
+ },
+ {
+  "gw": 19,
+  "home": "MFC",
+  "away": "FCA",
+  "ixd_c": 2.406,
+  "ixd_f": 1.564
+ },
+ {
+  "gw": 19,
+  "home": "SLB",
+  "away": "CPAC",
+  "ixd_c": 1.512,
+  "ixd_f": 4.605
+ },
+ {
+  "gw": 19,
+  "home": "VSC",
+  "away": "SCP",
+  "ixd_c": 4.56,
+  "ixd_f": 3.2
+ },
+ {
+  "gw": 20,
+  "home": "ALV",
+  "away": "SCP",
+  "ixd_c": 4.56,
+  "ixd_f": 2.361
+ },
+ {
+  "gw": 20,
+  "home": "AVFC",
+  "away": "CSM",
+  "ixd_c": 2.334,
+  "ixd_f": 2.352
+ },
+ {
+  "gw": 20,
+  "home": "CDN",
+  "away": "VSC",
+  "ixd_c": 3.2,
+  "ixd_f": 1.538
+ },
+ {
+  "gw": 20,
+  "home": "CPAC",
+  "away": "GVFC",
+  "ixd_c": 3.228,
+  "ixd_f": 1.512
+ },
+ {
+  "gw": 20,
+  "home": "FCA",
+  "away": "FCP",
+  "ixd_c": 4.485,
+  "ixd_f": 3.208
+ },
+ {
+  "gw": 20,
+  "home": "FCF",
+  "away": "CDSC",
+  "ixd_c": 2.451,
+  "ixd_f": 3.292
+ },
+ {
+  "gw": 20,
+  "home": "RAFC",
+  "away": "GDEP",
+  "ixd_c": 2.334,
+  "ixd_f": 2.316
+ },
+ {
+  "gw": 20,
+  "home": "SCB",
+  "away": "CFEA",
+  "ixd_c": 2.349,
+  "ixd_f": 4.295
+ },
+ {
+  "gw": 20,
+  "home": "SLB",
+  "away": "MFC",
+  "ixd_c": 1.564,
+  "ixd_f": 4.605
+ },
+ {
+  "gw": 21,
+  "home": "CDSC",
+  "away": "ALV",
+  "ixd_c": 2.361,
+  "ixd_f": 3.268
+ },
+ {
+  "gw": 21,
+  "home": "CFEA",
+  "away": "CDN",
+  "ixd_c": 1.538,
+  "ixd_f": 2.349
+ },
+ {
+  "gw": 21,
+  "home": "CSM",
+  "away": "FCA",
+  "ixd_c": 2.406,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 21,
+  "home": "FCP",
+  "away": "AVFC",
+  "ixd_c": 1.568,
+  "ixd_f": 4.485
+ },
+ {
+  "gw": 21,
+  "home": "GDEP",
+  "away": "SLB",
+  "ixd_c": 4.605,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 21,
+  "home": "GVFC",
+  "away": "FCF",
+  "ixd_c": 3.292,
+  "ixd_f": 3.228
+ },
+ {
+  "gw": 21,
+  "home": "MFC",
+  "away": "CPAC",
+  "ixd_c": 1.512,
+  "ixd_f": 1.564
+ },
+ {
+  "gw": 21,
+  "home": "SCP",
+  "away": "RAFC",
+  "ixd_c": 1.544,
+  "ixd_f": 4.56
+ },
+ {
+  "gw": 21,
+  "home": "VSC",
+  "away": "SCB",
+  "ixd_c": 3.436,
+  "ixd_f": 3.2
+ },
+ {
+  "gw": 22,
+  "home": "AVFC",
+  "away": "GVFC",
+  "ixd_c": 3.228,
+  "ixd_f": 2.352
+ },
+ {
+  "gw": 22,
+  "home": "CDN",
+  "away": "SCP",
+  "ixd_c": 4.56,
+  "ixd_f": 1.538
+ },
+ {
+  "gw": 22,
+  "home": "CPAC",
+  "away": "VSC",
+  "ixd_c": 3.2,
+  "ixd_f": 1.512
+ },
+ {
+  "gw": 22,
+  "home": "FCA",
+  "away": "GDEP",
+  "ixd_c": 2.334,
+  "ixd_f": 3.208
+ },
+ {
+  "gw": 22,
+  "home": "FCF",
+  "away": "CFEA",
+  "ixd_c": 2.349,
+  "ixd_f": 3.292
+ },
+ {
+  "gw": 22,
+  "home": "MFC",
+  "away": "FCP",
+  "ixd_c": 4.485,
+  "ixd_f": 1.564
+ },
+ {
+  "gw": 22,
+  "home": "RAFC",
+  "away": "CDSC",
+  "ixd_c": 2.451,
+  "ixd_f": 2.316
+ },
+ {
+  "gw": 22,
+  "home": "SCB",
+  "away": "ALV",
+  "ixd_c": 2.361,
+  "ixd_f": 4.295
+ },
+ {
+  "gw": 22,
+  "home": "SLB",
+  "away": "CSM",
+  "ixd_c": 2.334,
+  "ixd_f": 4.605
+ },
+ {
+  "gw": 23,
+  "home": "ALV",
+  "away": "CDN",
+  "ixd_c": 1.538,
+  "ixd_f": 2.361
+ },
+ {
+  "gw": 23,
+  "home": "CDSC",
+  "away": "FCA",
+  "ixd_c": 2.406,
+  "ixd_f": 3.268
+ },
+ {
+  "gw": 23,
+  "home": "CFEA",
+  "away": "RAFC",
+  "ixd_c": 1.544,
+  "ixd_f": 2.349
+ },
+ {
+  "gw": 23,
+  "home": "CSM",
+  "away": "MFC",
+  "ixd_c": 1.564,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 23,
+  "home": "FCP",
+  "away": "CPAC",
+  "ixd_c": 1.512,
+  "ixd_f": 4.485
+ },
+ {
+  "gw": 23,
+  "home": "GDEP",
+  "away": "SCB",
+  "ixd_c": 3.436,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 23,
+  "home": "GVFC",
+  "away": "SLB",
+  "ixd_c": 4.605,
+  "ixd_f": 3.228
+ },
+ {
+  "gw": 23,
+  "home": "SCP",
+  "away": "FCF",
+  "ixd_c": 3.292,
+  "ixd_f": 4.56
+ },
+ {
+  "gw": 23,
+  "home": "VSC",
+  "away": "AVFC",
+  "ixd_c": 1.568,
+  "ixd_f": 3.2
+ },
+ {
+  "gw": 24,
+  "home": "AVFC",
+  "away": "CFEA",
+  "ixd_c": 2.349,
+  "ixd_f": 2.352
+ },
+ {
+  "gw": 24,
+  "home": "CPAC",
+  "away": "GDEP",
+  "ixd_c": 2.334,
+  "ixd_f": 1.512
+ },
+ {
+  "gw": 24,
+  "home": "CSM",
+  "away": "GVFC",
+  "ixd_c": 3.228,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 24,
+  "home": "FCA",
+  "away": "SCP",
+  "ixd_c": 4.56,
+  "ixd_f": 3.208
+ },
+ {
+  "gw": 24,
+  "home": "FCF",
+  "away": "CDN",
+  "ixd_c": 1.538,
+  "ixd_f": 3.292
+ },
+ {
+  "gw": 24,
+  "home": "MFC",
+  "away": "VSC",
+  "ixd_c": 3.2,
+  "ixd_f": 1.564
+ },
+ {
+  "gw": 24,
+  "home": "RAFC",
+  "away": "ALV",
+  "ixd_c": 2.361,
+  "ixd_f": 2.316
+ },
+ {
+  "gw": 24,
+  "home": "SCB",
+  "away": "CDSC",
+  "ixd_c": 2.451,
+  "ixd_f": 4.295
+ },
+ {
+  "gw": 24,
+  "home": "SLB",
+  "away": "FCP",
+  "ixd_c": 4.485,
+  "ixd_f": 4.605
+ },
+ {
+  "gw": 25,
+  "home": "ALV",
+  "away": "FCF",
+  "ixd_c": 3.292,
+  "ixd_f": 2.361
+ },
+ {
+  "gw": 25,
+  "home": "CDN",
+  "away": "RAFC",
+  "ixd_c": 1.544,
+  "ixd_f": 1.538
+ },
+ {
+  "gw": 25,
+  "home": "CDSC",
+  "away": "CPAC",
+  "ixd_c": 1.512,
+  "ixd_f": 3.268
+ },
+ {
+  "gw": 25,
+  "home": "CFEA",
+  "away": "FCA",
+  "ixd_c": 2.406,
+  "ixd_f": 2.349
+ },
+ {
+  "gw": 25,
+  "home": "FCP",
+  "away": "CSM",
+  "ixd_c": 2.334,
+  "ixd_f": 4.485
+ },
+ {
+  "gw": 25,
+  "home": "GDEP",
+  "away": "AVFC",
+  "ixd_c": 1.568,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 25,
+  "home": "GVFC",
+  "away": "MFC",
+  "ixd_c": 1.564,
+  "ixd_f": 3.228
+ },
+ {
+  "gw": 25,
+  "home": "SCP",
+  "away": "SCB",
+  "ixd_c": 3.436,
+  "ixd_f": 4.56
+ },
+ {
+  "gw": 25,
+  "home": "VSC",
+  "away": "SLB",
+  "ixd_c": 4.605,
+  "ixd_f": 3.2
+ },
+ {
+  "gw": 26,
+  "home": "AVFC",
+  "away": "SCP",
+  "ixd_c": 4.56,
+  "ixd_f": 2.352
+ },
+ {
+  "gw": 26,
+  "home": "CPAC",
+  "away": "CFEA",
+  "ixd_c": 2.349,
+  "ixd_f": 1.512
+ },
+ {
+  "gw": 26,
+  "home": "CSM",
+  "away": "VSC",
+  "ixd_c": 3.2,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 26,
+  "home": "FCA",
+  "away": "ALV",
+  "ixd_c": 2.361,
+  "ixd_f": 3.208
+ },
+ {
+  "gw": 26,
+  "home": "FCF",
+  "away": "RAFC",
+  "ixd_c": 1.544,
+  "ixd_f": 3.292
+ },
+ {
+  "gw": 26,
+  "home": "FCP",
+  "away": "GVFC",
+  "ixd_c": 3.228,
+  "ixd_f": 4.485
+ },
+ {
+  "gw": 26,
+  "home": "MFC",
+  "away": "GDEP",
+  "ixd_c": 2.334,
+  "ixd_f": 1.564
+ },
+ {
+  "gw": 26,
+  "home": "SCB",
+  "away": "CDN",
+  "ixd_c": 1.538,
+  "ixd_f": 4.295
+ },
+ {
+  "gw": 26,
+  "home": "SLB",
+  "away": "CDSC",
+  "ixd_c": 2.451,
+  "ixd_f": 4.605
+ },
+ {
+  "gw": 27,
+  "home": "ALV",
+  "away": "SLB",
+  "ixd_c": 4.605,
+  "ixd_f": 2.361
+ },
+ {
+  "gw": 27,
+  "home": "CDN",
+  "away": "FCA",
+  "ixd_c": 2.406,
+  "ixd_f": 1.538
+ },
+ {
+  "gw": 27,
+  "home": "CDSC",
+  "away": "CSM",
+  "ixd_c": 2.334,
+  "ixd_f": 3.268
+ },
+ {
+  "gw": 27,
+  "home": "CFEA",
+  "away": "MFC",
+  "ixd_c": 1.564,
+  "ixd_f": 2.349
+ },
+ {
+  "gw": 27,
+  "home": "FCF",
+  "away": "SCB",
+  "ixd_c": 3.436,
+  "ixd_f": 3.292
+ },
+ {
+  "gw": 27,
+  "home": "GDEP",
+  "away": "FCP",
+  "ixd_c": 4.485,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 27,
+  "home": "RAFC",
+  "away": "AVFC",
+  "ixd_c": 1.568,
+  "ixd_f": 2.316
+ },
+ {
+  "gw": 27,
+  "home": "SCP",
+  "away": "CPAC",
+  "ixd_c": 1.512,
+  "ixd_f": 4.56
+ },
+ {
+  "gw": 27,
+  "home": "VSC",
+  "away": "GVFC",
+  "ixd_c": 3.228,
+  "ixd_f": 3.2
+ },
+ {
+  "gw": 28,
+  "home": "AVFC",
+  "away": "CDN",
+  "ixd_c": 1.538,
+  "ixd_f": 2.352
+ },
+ {
+  "gw": 28,
+  "home": "CPAC",
+  "away": "ALV",
+  "ixd_c": 2.361,
+  "ixd_f": 1.512
+ },
+ {
+  "gw": 28,
+  "home": "CSM",
+  "away": "GDEP",
+  "ixd_c": 2.334,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 28,
+  "home": "FCA",
+  "away": "FCF",
+  "ixd_c": 3.292,
+  "ixd_f": 3.208
+ },
+ {
+  "gw": 28,
+  "home": "FCP",
+  "away": "VSC",
+  "ixd_c": 3.2,
+  "ixd_f": 4.485
+ },
+ {
+  "gw": 28,
+  "home": "GVFC",
+  "away": "CDSC",
+  "ixd_c": 2.451,
+  "ixd_f": 3.228
+ },
+ {
+  "gw": 28,
+  "home": "MFC",
+  "away": "SCP",
+  "ixd_c": 4.56,
+  "ixd_f": 1.564
+ },
+ {
+  "gw": 28,
+  "home": "SCB",
+  "away": "RAFC",
+  "ixd_c": 1.544,
+  "ixd_f": 4.295
+ },
+ {
+  "gw": 28,
+  "home": "SLB",
+  "away": "CFEA",
+  "ixd_c": 2.349,
+  "ixd_f": 4.605
+ },
+ {
+  "gw": 29,
+  "home": "ALV",
+  "away": "AVFC",
+  "ixd_c": 1.568,
+  "ixd_f": 2.361
+ },
+ {
+  "gw": 29,
+  "home": "CDN",
+  "away": "CSM",
+  "ixd_c": 2.334,
+  "ixd_f": 1.538
+ },
+ {
+  "gw": 29,
+  "home": "CDSC",
+  "away": "MFC",
+  "ixd_c": 1.564,
+  "ixd_f": 3.268
+ },
+ {
+  "gw": 29,
+  "home": "CFEA",
+  "away": "VSC",
+  "ixd_c": 3.2,
+  "ixd_f": 2.349
+ },
+ {
+  "gw": 29,
+  "home": "FCF",
+  "away": "SLB",
+  "ixd_c": 4.605,
+  "ixd_f": 3.292
+ },
+ {
+  "gw": 29,
+  "home": "GDEP",
+  "away": "GVFC",
+  "ixd_c": 3.228,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 29,
+  "home": "RAFC",
+  "away": "FCA",
+  "ixd_c": 2.406,
+  "ixd_f": 2.316
+ },
+ {
+  "gw": 29,
+  "home": "SCB",
+  "away": "CPAC",
+  "ixd_c": 1.512,
+  "ixd_f": 4.295
+ },
+ {
+  "gw": 29,
+  "home": "SCP",
+  "away": "FCP",
+  "ixd_c": 4.485,
+  "ixd_f": 4.56
+ },
+ {
+  "gw": 30,
+  "home": "AVFC",
+  "away": "FCF",
+  "ixd_c": 3.292,
+  "ixd_f": 2.352
+ },
+ {
+  "gw": 30,
+  "home": "CPAC",
+  "away": "RAFC",
+  "ixd_c": 1.544,
+  "ixd_f": 1.512
+ },
+ {
+  "gw": 30,
+  "home": "CSM",
+  "away": "SCP",
+  "ixd_c": 4.56,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 30,
+  "home": "FCA",
+  "away": "SCB",
+  "ixd_c": 3.436,
+  "ixd_f": 3.208
+ },
+ {
+  "gw": 30,
+  "home": "FCP",
+  "away": "CDSC",
+  "ixd_c": 2.451,
+  "ixd_f": 4.485
+ },
+ {
+  "gw": 30,
+  "home": "GVFC",
+  "away": "CFEA",
+  "ixd_c": 2.349,
+  "ixd_f": 3.228
+ },
+ {
+  "gw": 30,
+  "home": "MFC",
+  "away": "ALV",
+  "ixd_c": 2.361,
+  "ixd_f": 1.564
+ },
+ {
+  "gw": 30,
+  "home": "SLB",
+  "away": "CDN",
+  "ixd_c": 1.538,
+  "ixd_f": 4.605
+ },
+ {
+  "gw": 30,
+  "home": "VSC",
+  "away": "GDEP",
+  "ixd_c": 2.334,
+  "ixd_f": 3.2
+ },
+ {
+  "gw": 31,
+  "home": "ALV",
+  "away": "VSC",
+  "ixd_c": 3.2,
+  "ixd_f": 2.361
+ },
+ {
+  "gw": 31,
+  "home": "CDN",
+  "away": "CPAC",
+  "ixd_c": 1.512,
+  "ixd_f": 1.538
+ },
+ {
+  "gw": 31,
+  "home": "CDSC",
+  "away": "GDEP",
+  "ixd_c": 2.334,
+  "ixd_f": 3.268
+ },
+ {
+  "gw": 31,
+  "home": "CFEA",
+  "away": "FCP",
+  "ixd_c": 4.485,
+  "ixd_f": 2.349
+ },
+ {
+  "gw": 31,
+  "home": "FCA",
+  "away": "AVFC",
+  "ixd_c": 1.568,
+  "ixd_f": 3.208
+ },
+ {
+  "gw": 31,
+  "home": "FCF",
+  "away": "MFC",
+  "ixd_c": 1.564,
+  "ixd_f": 3.292
+ },
+ {
+  "gw": 31,
+  "home": "RAFC",
+  "away": "CSM",
+  "ixd_c": 2.334,
+  "ixd_f": 2.316
+ },
+ {
+  "gw": 31,
+  "home": "SCB",
+  "away": "SLB",
+  "ixd_c": 4.605,
+  "ixd_f": 4.295
+ },
+ {
+  "gw": 31,
+  "home": "SCP",
+  "away": "GVFC",
+  "ixd_c": 3.228,
+  "ixd_f": 4.56
+ },
+ {
+  "gw": 32,
+  "home": "AVFC",
+  "away": "SCB",
+  "ixd_c": 3.436,
+  "ixd_f": 2.352
+ },
+ {
+  "gw": 32,
+  "home": "CPAC",
+  "away": "FCA",
+  "ixd_c": 2.406,
+  "ixd_f": 1.512
+ },
+ {
+  "gw": 32,
+  "home": "CSM",
+  "away": "CFEA",
+  "ixd_c": 2.349,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 32,
+  "home": "FCP",
+  "away": "FCF",
+  "ixd_c": 3.292,
+  "ixd_f": 4.485
+ },
+ {
+  "gw": 32,
+  "home": "GDEP",
+  "away": "SCP",
+  "ixd_c": 4.56,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 32,
+  "home": "GVFC",
+  "away": "ALV",
+  "ixd_c": 2.361,
+  "ixd_f": 3.228
+ },
+ {
+  "gw": 32,
+  "home": "MFC",
+  "away": "CDN",
+  "ixd_c": 1.538,
+  "ixd_f": 1.564
+ },
+ {
+  "gw": 32,
+  "home": "SLB",
+  "away": "RAFC",
+  "ixd_c": 1.544,
+  "ixd_f": 4.605
+ },
+ {
+  "gw": 32,
+  "home": "VSC",
+  "away": "CDSC",
+  "ixd_c": 2.451,
+  "ixd_f": 3.2
+ },
+ {
+  "gw": 33,
+  "home": "ALV",
+  "away": "GDEP",
+  "ixd_c": 2.334,
+  "ixd_f": 2.361
+ },
+ {
+  "gw": 33,
+  "home": "AVFC",
+  "away": "MFC",
+  "ixd_c": 1.564,
+  "ixd_f": 2.352
+ },
+ {
+  "gw": 33,
+  "home": "CDN",
+  "away": "FCP",
+  "ixd_c": 4.485,
+  "ixd_f": 1.538
+ },
+ {
+  "gw": 33,
+  "home": "CFEA",
+  "away": "CDSC",
+  "ixd_c": 2.451,
+  "ixd_f": 2.349
+ },
+ {
+  "gw": 33,
+  "home": "FCA",
+  "away": "GVFC",
+  "ixd_c": 3.228,
+  "ixd_f": 3.208
+ },
+ {
+  "gw": 33,
+  "home": "FCF",
+  "away": "CPAC",
+  "ixd_c": 1.512,
+  "ixd_f": 3.292
+ },
+ {
+  "gw": 33,
+  "home": "RAFC",
+  "away": "VSC",
+  "ixd_c": 3.2,
+  "ixd_f": 2.316
+ },
+ {
+  "gw": 33,
+  "home": "SCB",
+  "away": "CSM",
+  "ixd_c": 2.334,
+  "ixd_f": 4.295
+ },
+ {
+  "gw": 33,
+  "home": "SCP",
+  "away": "SLB",
+  "ixd_c": 4.605,
+  "ixd_f": 4.56
+ },
+ {
+  "gw": 34,
+  "home": "CDSC",
+  "away": "SCP",
+  "ixd_c": 4.56,
+  "ixd_f": 3.268
+ },
+ {
+  "gw": 34,
+  "home": "CPAC",
+  "away": "AVFC",
+  "ixd_c": 1.568,
+  "ixd_f": 1.512
+ },
+ {
+  "gw": 34,
+  "home": "CSM",
+  "away": "ALV",
+  "ixd_c": 2.361,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 34,
+  "home": "FCP",
+  "away": "SCB",
+  "ixd_c": 3.436,
+  "ixd_f": 4.485
+ },
+ {
+  "gw": 34,
+  "home": "GDEP",
+  "away": "CFEA",
+  "ixd_c": 2.349,
+  "ixd_f": 2.334
+ },
+ {
+  "gw": 34,
+  "home": "GVFC",
+  "away": "CDN",
+  "ixd_c": 1.538,
+  "ixd_f": 3.228
+ },
+ {
+  "gw": 34,
+  "home": "MFC",
+  "away": "RAFC",
+  "ixd_c": 1.544,
+  "ixd_f": 1.564
+ },
+ {
+  "gw": 34,
+  "home": "SLB",
+  "away": "FCA",
+  "ixd_c": 2.406,
+  "ixd_f": 4.605
+ },
+ {
+  "gw": 34,
+  "home": "VSC",
+  "away": "FCF",
+  "ixd_c": 3.292,
+  "ixd_f": 3.2
+ }
+]

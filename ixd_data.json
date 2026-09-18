@@ -1,0 +1,110 @@
+{
+  "SLB": {
+    "name": "SL Benfica",
+    "ixd_c": 5.0,
+    "ixd_f": 5.0,
+    "opta": 92.1
+  },
+  "SCP": {
+    "name": "Sporting CP",
+    "ixd_c": 5.0,
+    "ixd_f": 5.0,
+    "opta": 91.2
+  },
+  "FCP": {
+    "name": "FC Porto",
+    "ixd_c": 5.0,
+    "ixd_f": 5.0,
+    "opta": 89.7
+  },
+  "SCB": {
+    "name": "SC Braga",
+    "ixd_c": 5.0,
+    "ixd_f": 4.0,
+    "opta": 85.9
+  },
+  "FCF": {
+    "name": "FC Famalicão",
+    "ixd_c": 4.0,
+    "ixd_f": 4.0,
+    "opta": 82.3
+  },
+  "CDSC": {
+    "name": "Santa Clara",
+    "ixd_c": 4.0,
+    "ixd_f": 3.0,
+    "opta": 81.7
+  },
+  "GVFC": {
+    "name": "Gil Vicente FC",
+    "ixd_c": 4.0,
+    "ixd_f": 4.0,
+    "opta": 80.7
+  },
+  "FCA": {
+    "name": "FC Arouca",
+    "ixd_c": 4.0,
+    "ixd_f": 3.0,
+    "opta": 80.2
+  },
+  "VSC": {
+    "name": "Vitória SC",
+    "ixd_c": 4.0,
+    "ixd_f": 4.0,
+    "opta": 80.0
+  },
+  "ALV": {
+    "name": "FC Alverca",
+    "ixd_c": 3.0,
+    "ixd_f": 3.0,
+    "opta": 78.7
+  },
+  "AVFC": {
+    "name": "Académico",
+    "ixd_c": 3.0,
+    "ixd_f": 2.0,
+    "opta": 78.4
+  },
+  "CFEA": {
+    "name": "Estrela Amadora",
+    "ixd_c": 3.0,
+    "ixd_f": 3.0,
+    "opta": 78.3
+  },
+  "MFC": {
+    "name": "Moreirense FC",
+    "ixd_c": 2.0,
+    "ixd_f": 2.0,
+    "opta": 78.2
+  },
+  "CSM": {
+    "name": "Marítimo M.",
+    "ixd_c": 3.0,
+    "ixd_f": 3.0,
+    "opta": 77.8
+  },
+  "EPF": {
+    "name": "Estoril Praia",
+    "ixd_c": 3.0,
+    "ixd_f": 3.0,
+    "opta": 77.8
+  },
+  "RAFC": {
+    "name": "Rio Ave FC",
+    "ixd_c": 3.0,
+    "ixd_f": 2.0,
+    "opta": 77.2
+  },
+  "CDN": {
+    "name": "CD Nacional",
+    "ixd_c": 2.0,
+    "ixd_f": 2.0,
+    "opta": 76.9
+  },
+  "CPAC": {
+    "name": "Casa Pia AC",
+    "ixd_c": 2.0,
+    "ixd_f": 2.0,
+    "opta": 75.6
+  }
+}
