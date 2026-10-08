@@ -983,8 +983,11 @@ elif nav == "📊 Fixture Difficulty":
             help="Mostra apenas as equipas escolhidas.",
         )
     if team_filter_fdr:
-        text_df = text_df.loc[team_filter_fdr]
-        fdr_df = fdr_df.loc[team_filter_fdr]
+        # Filtra mantendo a ordem por Média FDR (mais fácil no topo).
+        # .loc[lista] reordenaria pela ordem em que as equipas foram escolhidas.
+        keep = [t for t in text_df.index if t in set(team_filter_fdr)]
+        text_df = text_df.loc[keep]
+        fdr_df = fdr_df.loc[keep]
 
     # Cores por threshold (igual ao Excel): (fundo, texto)
     def fdr_colors(val):
