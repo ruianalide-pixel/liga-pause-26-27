@@ -933,24 +933,11 @@ elif nav == "🏆 Liga":
 # PAGE: FIXTURE DIFFICULTY (placeholder)
 # ============================================
 elif nav == "📊 Fixture Difficulty":
-    hcol1, hcol2 = st.columns([3, 1])
-    with hcol1:
-        st.subheader("📊 Fixture Difficulty Rating")
-        st.caption("Dificuldade dos próximos jogos, com base nos teus índices de dificuldade (IxD) manuais.")
-    with hcol2:
-        st.write("")
-        if st.button("🔃 Sincronizar Excel", use_container_width=True,
-                     help="Relê os índices IxD do Excel e atualiza a dashboard"):
-            try:
-                from sync_ixd import sync_all
-                res = sync_all()
-                st.cache_data.clear()
-                st.success(f"Sincronizado: {res['games']} jogos, {res['teams']} equipas")
-                st.rerun()
-            except FileNotFoundError as e:
-                st.error(f"Excel não encontrado. {e}")
-            except Exception as e:
-                st.error(f"Erro ao sincronizar: {e}")
+    # Os índices IxD vêm do Excel (OneDrive) e são sincronizados LOCALMENTE com
+    # tools/sync_ixd.py + push. O Excel não existe no servidor, por isso não há
+    # botão de sincronização na app.
+    st.subheader("📊 Fixture Difficulty Rating")
+    st.caption("Dificuldade dos próximos jogos, com base nos teus índices de dificuldade (IxD) manuais.")
 
     bootstrap = load_bootstrap()
     all_events = bootstrap['events']
