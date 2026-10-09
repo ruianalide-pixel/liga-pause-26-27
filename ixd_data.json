@@ -56,7 +56,7 @@
   "AVFC": {
     "name": "Académico",
     "ixd_c": 3.0,
-    "ixd_f": 2.0,
+    "ixd_f": 3.0,
     "opta": 80.1
   },
   "ALV": {
@@ -74,7 +74,7 @@
   "CSM": {
     "name": "Marítimo M.",
     "ixd_c": 3.0,
-    "ixd_f": 3.0,
+    "ixd_f": 2.0,
     "opta": 78.8
   },
   "CFEA": {
@@ -86,7 +86,7 @@
   "EPF": {
     "name": "Estoril Praia",
     "ixd_c": 3.0,
-    "ixd_f": 3.0,
+    "ixd_f": 2.0,
     "opta": 78.0
   },
   "RAFC": {
