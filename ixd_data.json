@@ -26,7 +26,7 @@
   "CDSC": {
     "name": "Santa Clara",
     "ixd_c": 4.0,
-    "ixd_f": 3.0,
+    "ixd_f": 4.0,
     "opta": 82.4
   },
   "GVFC": {
@@ -38,7 +38,7 @@
   "FCF": {
     "name": "FC Famalicão",
     "ixd_c": 4.0,
-    "ixd_f": 4.0,
+    "ixd_f": 3.0,
     "opta": 81.6
   },
   "FCA": {
@@ -86,7 +86,7 @@
   "RAFC": {
     "name": "Rio Ave FC",
     "ixd_c": 3.0,
-    "ixd_f": 2.0,
+    "ixd_f": 3.0,
     "opta": 77.6
   },
   "EPF": {

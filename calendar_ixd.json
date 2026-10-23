@@ -31,14 +31,14 @@
   "gw": 1,
   "home": "GDEP",
   "away": "FCF",
-  "ixd_c": 3.264,
+  "ixd_c": 2.448,
   "ixd_f": 2.322
  },
  {
   "gw": 1,
   "home": "GVFC",
   "away": "RAFC",
-  "ixd_c": 1.552,
+  "ixd_c": 2.328,
   "ixd_f": 3.272
  },
  {
@@ -73,7 +73,7 @@
   "gw": 2,
   "home": "AVFC",
   "away": "CDSC",
-  "ixd_c": 2.472,
+  "ixd_c": 3.296,
   "ixd_f": 2.382
  },
  {
@@ -129,7 +129,7 @@
   "gw": 3,
   "home": "CDSC",
   "away": "FCF",
-  "ixd_c": 3.264,
+  "ixd_c": 2.448,
   "ixd_f": 3.296
  },
  {
@@ -157,7 +157,7 @@
   "gw": 3,
   "home": "GDEP",
   "away": "RAFC",
-  "ixd_c": 1.552,
+  "ixd_c": 2.328,
   "ixd_f": 2.322
  },
  {
@@ -192,7 +192,7 @@
   "gw": 4,
   "home": "ALV",
   "away": "CDSC",
-  "ixd_c": 2.472,
+  "ixd_c": 3.296,
   "ixd_f": 2.421
  },
  {
@@ -262,14 +262,14 @@
   "gw": 5,
   "home": "CDSC",
   "away": "RAFC",
-  "ixd_c": 1.552,
+  "ixd_c": 2.328,
   "ixd_f": 3.296
  },
  {
   "gw": 5,
   "home": "CFEA",
   "away": "FCF",
-  "ixd_c": 3.264,
+  "ixd_c": 2.448,
   "ixd_f": 2.337
  },
  {
@@ -339,7 +339,7 @@
   "gw": 6,
   "home": "FCA",
   "away": "CDSC",
-  "ixd_c": 2.472,
+  "ixd_c": 3.296,
   "ixd_f": 3.244
  },
  {
@@ -381,14 +381,14 @@
   "gw": 7,
   "home": "ALV",
   "away": "RAFC",
-  "ixd_c": 1.552,
+  "ixd_c": 2.328,
   "ixd_f": 2.421
  },
  {
   "gw": 7,
   "home": "CDN",
   "away": "FCF",
-  "ixd_c": 3.264,
+  "ixd_c": 2.448,
   "ixd_f": 1.528
  },
  {
@@ -451,7 +451,7 @@
   "gw": 8,
   "home": "CPAC",
   "away": "CDSC",
-  "ixd_c": 2.472,
+  "ixd_c": 3.296,
   "ixd_f": 1.53
  },
  {
@@ -549,7 +549,7 @@
   "gw": 9,
   "home": "RAFC",
   "away": "FCF",
-  "ixd_c": 3.264,
+  "ixd_c": 2.448,
   "ixd_f": 2.328
  },
  {
@@ -570,7 +570,7 @@
   "gw": 10,
   "home": "AVFC",
   "away": "RAFC",
-  "ixd_c": 1.552,
+  "ixd_c": 2.328,
   "ixd_f": 2.382
  },
  {
@@ -584,7 +584,7 @@
   "gw": 10,
   "home": "CSM",
   "away": "CDSC",
-  "ixd_c": 2.472,
+  "ixd_c": 3.296,
   "ixd_f": 2.346
  },
  {
@@ -619,7 +619,7 @@
   "gw": 10,
   "home": "SCB",
   "away": "FCF",
-  "ixd_c": 3.264,
+  "ixd_c": 2.448,
   "ixd_f": 4.26
  },
  {
@@ -717,7 +717,7 @@
   "gw": 12,
   "home": "FCA",
   "away": "RAFC",
-  "ixd_c": 1.552,
+  "ixd_c": 2.328,
   "ixd_f": 3.244
  },
  {
@@ -738,14 +738,14 @@
   "gw": 12,
   "home": "MFC",
   "away": "CDSC",
-  "ixd_c": 2.472,
+  "ixd_c": 3.296,
   "ixd_f": 1.564
  },
  {
   "gw": 12,
   "home": "SLB",
   "away": "FCF",
-  "ixd_c": 3.264,
+  "ixd_c": 2.448,
   "ixd_f": 4.63
  },
  {
@@ -836,7 +836,7 @@
   "gw": 14,
   "home": "CSM",
   "away": "RAFC",
-  "ixd_c": 1.552,
+  "ixd_c": 2.328,
   "ixd_f": 2.346
  },
  {
@@ -850,7 +850,7 @@
   "gw": 14,
   "home": "GDEP",
   "away": "CDSC",
-  "ixd_c": 2.472,
+  "ixd_c": 3.296,
   "ixd_f": 2.322
  },
  {
@@ -864,7 +864,7 @@
   "gw": 14,
   "home": "MFC",
   "away": "FCF",
-  "ixd_c": 3.264,
+  "ixd_c": 2.448,
   "ixd_f": 1.564
  },
  {
@@ -955,7 +955,7 @@
   "gw": 16,
   "home": "CPAC",
   "away": "FCF",
-  "ixd_c": 3.264,
+  "ixd_c": 2.448,
   "ixd_f": 1.53
  },
  {
@@ -1004,7 +1004,7 @@
   "gw": 16,
   "home": "VSC",
   "away": "RAFC",
-  "ixd_c": 1.552,
+  "ixd_c": 2.328,
   "ixd_f": 3.208
  },
  {
@@ -1067,7 +1067,7 @@
   "gw": 17,
   "home": "SCP",
   "away": "CDSC",
-  "ixd_c": 2.472,
+  "ixd_c": 3.296,
   "ixd_f": 4.565
  },
  {
@@ -1088,7 +1088,7 @@
   "gw": 18,
   "home": "CDN",
   "away": "CDSC",
-  "ixd_c": 2.472,
+  "ixd_c": 3.296,
   "ixd_f": 1.528
  },
  {
@@ -1151,14 +1151,14 @@
   "gw": 19,
   "home": "CSM",
   "away": "FCF",
-  "ixd_c": 3.264,
+  "ixd_c": 2.448,
   "ixd_f": 2.346
  },
  {
   "gw": 19,
   "home": "FCP",
   "away": "RAFC",
-  "ixd_c": 1.552,
+  "ixd_c": 2.328,
   "ixd_f": 4.495
  },
  {
@@ -1235,7 +1235,7 @@
   "gw": 20,
   "home": "FCF",
   "away": "CDSC",
-  "ixd_c": 2.472,
+  "ixd_c": 3.296,
   "ixd_f": 3.264
  },
  {
@@ -1298,7 +1298,7 @@
   "gw": 21,
   "home": "GVFC",
   "away": "FCF",
-  "ixd_c": 3.264,
+  "ixd_c": 2.448,
   "ixd_f": 3.272
  },
  {
@@ -1312,7 +1312,7 @@
   "gw": 21,
   "home": "SCP",
   "away": "RAFC",
-  "ixd_c": 1.552,
+  "ixd_c": 2.328,
   "ixd_f": 4.565
  },
  {
@@ -1368,7 +1368,7 @@
   "gw": 22,
   "home": "RAFC",
   "away": "CDSC",
-  "ixd_c": 2.472,
+  "ixd_c": 3.296,
   "ixd_f": 2.328
  },
  {
@@ -1403,7 +1403,7 @@
   "gw": 23,
   "home": "CFEA",
   "away": "RAFC",
-  "ixd_c": 1.552,
+  "ixd_c": 2.328,
   "ixd_f": 2.337
  },
  {
@@ -1438,7 +1438,7 @@
   "gw": 23,
   "home": "SCP",
   "away": "FCF",
-  "ixd_c": 3.264,
+  "ixd_c": 2.448,
   "ixd_f": 4.565
  },
  {
@@ -1501,7 +1501,7 @@
   "gw": 24,
   "home": "SCB",
   "away": "CDSC",
-  "ixd_c": 2.472,
+  "ixd_c": 3.296,
   "ixd_f": 4.26
  },
  {
@@ -1515,14 +1515,14 @@
   "gw": 25,
   "home": "ALV",
   "away": "FCF",
-  "ixd_c": 3.264,
+  "ixd_c": 2.448,
   "ixd_f": 2.421
  },
  {
   "gw": 25,
   "home": "CDN",
   "away": "RAFC",
-  "ixd_c": 1.552,
+  "ixd_c": 2.328,
   "ixd_f": 1.528
  },
  {
@@ -1606,7 +1606,7 @@
   "gw": 26,
   "home": "FCF",
   "away": "RAFC",
-  "ixd_c": 1.552,
+  "ixd_c": 2.328,
   "ixd_f": 3.264
  },
  {
@@ -1634,7 +1634,7 @@
   "gw": 26,
   "home": "SLB",
   "away": "CDSC",
-  "ixd_c": 2.472,
+  "ixd_c": 3.296,
   "ixd_f": 4.63
  },
  {
@@ -1725,7 +1725,7 @@
   "gw": 28,
   "home": "FCA",
   "away": "FCF",
-  "ixd_c": 3.264,
+  "ixd_c": 2.448,
   "ixd_f": 3.244
  },
  {
@@ -1739,7 +1739,7 @@
   "gw": 28,
   "home": "GVFC",
   "away": "CDSC",
-  "ixd_c": 2.472,
+  "ixd_c": 3.296,
   "ixd_f": 3.272
  },
  {
@@ -1753,7 +1753,7 @@
   "gw": 28,
   "home": "SCB",
   "away": "RAFC",
-  "ixd_c": 1.552,
+  "ixd_c": 2.328,
   "ixd_f": 4.26
  },
  {
@@ -1830,14 +1830,14 @@
   "gw": 30,
   "home": "AVFC",
   "away": "FCF",
-  "ixd_c": 3.264,
+  "ixd_c": 2.448,
   "ixd_f": 2.382
  },
  {
   "gw": 30,
   "home": "CPAC",
   "away": "RAFC",
-  "ixd_c": 1.552,
+  "ixd_c": 2.328,
   "ixd_f": 1.53
  },
  {
@@ -1858,7 +1858,7 @@
   "gw": 30,
   "home": "FCP",
   "away": "CDSC",
-  "ixd_c": 2.472,
+  "ixd_c": 3.296,
   "ixd_f": 4.495
  },
  {
@@ -1977,7 +1977,7 @@
   "gw": 32,
   "home": "FCP",
   "away": "FCF",
-  "ixd_c": 3.264,
+  "ixd_c": 2.448,
   "ixd_f": 4.495
  },
  {
@@ -2005,14 +2005,14 @@
   "gw": 32,
   "home": "SLB",
   "away": "RAFC",
-  "ixd_c": 1.552,
+  "ixd_c": 2.328,
   "ixd_f": 4.63
  },
  {
   "gw": 32,
   "home": "VSC",
   "away": "CDSC",
-  "ixd_c": 2.472,
+  "ixd_c": 3.296,
   "ixd_f": 3.208
  },
  {
@@ -2040,7 +2040,7 @@
   "gw": 33,
   "home": "CFEA",
   "away": "CDSC",
-  "ixd_c": 2.472,
+  "ixd_c": 3.296,
   "ixd_f": 2.337
  },
  {
@@ -2124,7 +2124,7 @@
   "gw": 34,
   "home": "MFC",
   "away": "RAFC",
-  "ixd_c": 1.552,
+  "ixd_c": 2.328,
   "ixd_f": 1.564
  },
  {
@@ -2138,7 +2138,7 @@
   "gw": 34,
   "home": "VSC",
   "away": "FCF",
-  "ixd_c": 3.264,
+  "ixd_c": 2.448,
   "ixd_f": 3.208
  }
 ]
